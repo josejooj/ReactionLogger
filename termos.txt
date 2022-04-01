@@ -1,0 +1,41 @@
+Termos de Serviço
+
+É importante ler os Termos de Serviço do ReactionLogger antes de utilizar o serviço.
+
+- Última atualização: 31 de março de 2022
+- Efetividade: 01 de abril de 2022
+
+Este Termo estabelece as regras para utilização do BOT ReactionLogger. Informamos que através da adição do bot em seu servidor do Discord você está utilizando nossos serviços e, portanto, aceitando as condições apresentadas neste contrato. Se você não concorda com os termos e condições apresentados, não faça uso de nosso serviço. A utilização do nosso serviço implica em contratação tácita de nossos serviços e por força dessa contratação a concordância com as cláusulas aqui apresentadas.
+
+Por favor, note que nós podemos mudar nosso Termos de Serviço a qualquer momento, é sua a responsabilidade manter-se atualizado e aderir às nossas políticas.
+Caso persista alguma dúvida sobre este documento entre em contato através do nosso servidor do Discord https://discord.gg/9CjRHsgubP.
+
+1. Seu acordo com o ReactionLogger
+
+1.1 Para usar os Serviços do ReactionLogger, primeiro você deve concordar com os Termos. Você pode concordar com os Termos usando efetivamente os Serviços do ReactionLogger. Você entende e concorda que o ReactionLogger considerará o uso dos Serviços do ReactionLogger como uma aceitação dos Termos a partir desse ponto em diante.
+1.2 Para usar os Serviços do ReactionLogger você precisa seguir, aceitar e concordar com nossos termos, caso contrario estará impedido de usar o serviço.
+
+2. Sua Conta e Utilização dos Serviços do ReactionLogger
+2.1 Você deve fornecer informações sempre que necessárias para o ReactionLogger, tais como seu ID Discord, ID do servidor, IDs de canais, IDs de membros de servidores, Dados de mensagens e de reações.
+2.2 Se você tomar conhecimento de qualquer uso não autorizado de alguma interface ou abuso do serviço, você concorda em notificar imediatamente o ReactionLogger.
+2.3 Você concorda em (a) não acessar (ou tentar acessar) a interface administrativa dos Serviços do ReactionLogger (BOT), por qualquer meio que não seja através da interface que é fornecido por padrão, a menos que tenha sido especificamente autorizado a fazê-lo em um acordo separado com o ReactionLogger, ou (b) se envolver em qualquer atividade que interfira ou interrompa o funcionamento dos Serviços do ReactionLogger, (ou os servidores e redes conectados ao Serviço), como tentar atingir a taxa limite de requests do BOT.
+
+3. Políticas de Serviços e Privacidade
+3.1 Você concorda em cumprir com a Política de Uso, que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
+3.2 Os Serviços do ReactionLogger estarão sujeitos à política de privacidade e você concorda com a utilização de seus dados de acordo com as Políticas de Privacidade do ReactionLogger, que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
+
+4. Política de privacidade
+4.1 A aplicação poderá armazenar certos dados públicos: ID's de usuários, de mensagens e de servidores, dados de reações e de mensagens.
+4.2 Ao aceitar o termo você autoriza que o BOT e seus desenvolvedores possam utilizar os dados do item 4.1 da forma que bem entenderem.
+
+5. Direitos de Propriedade
+5.1 Você reconhece e concorda que o ReactionLogger (ou os licenciadores do ReactionLogger) detém todos os direitos legais, títulos e interesses relativos ao serviços do BOT, incluindo quaisquer direitos de propriedade intelectual que subsistam nos Serviços da DisCloud (quer esses direitos estejam registrados ou não, e em qualquer lugar do mundo).
+
+6. Alterações nos Termos
+6.1 ReactionLogger pode fazer alterações nos Termos de tempos em tempos. Se mudarmos os Termos de nenhuma forma substantiva, damos-lhe, pelo menos, sete (7) dias de aviso antes que as alterações entrem em vigor, período de tempo que você pode rejeitar as alterações encerrando sua conta.
+6.2 Você compreende e concorda que, se utilizar os Serviços do ReactionLogger após a data em que os Termos foram alterados, ReactionLogger tomará o seu uso como uma aceitação dos Termos atualizados.
+
+Este documento é uma adaptação dos Termos de Serviço da Discloud. O trabalho original foi modificado.
+
+Discord Inc. não possui vínculo e não patrocina ou endossa o ReactionLogger ou o seu uso da obra.
+Discloud Inc. não possui vínculo e não patrocina ou endossa o ReactionLogger ou o seu uso da obra.
